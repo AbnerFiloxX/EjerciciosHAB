@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package repaso_tienda;
 
-/**
- *
- * @author satel
- */
 import java.util.Scanner;
 
 public class Repaso_Tienda {
